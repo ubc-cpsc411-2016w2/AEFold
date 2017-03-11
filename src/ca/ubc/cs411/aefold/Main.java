@@ -1,4 +1,4 @@
-package cs411.aefold;
+package ca.ubc.cs411.aefold;
 
 public class Main {
 
