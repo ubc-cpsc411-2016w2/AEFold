@@ -6,7 +6,7 @@ package ca.ubc.cs411.aefold;
 public class InterpFolder implements Folder<Integer> {
     @Override
     public Integer forNum(int n) {
-        return new Integer(n);
+        return n;
     }
 
     @Override
